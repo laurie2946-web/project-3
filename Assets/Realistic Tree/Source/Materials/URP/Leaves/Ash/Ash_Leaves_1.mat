@@ -11,7 +11,7 @@ Material:
   m_Shader: {fileID: -6465566751694194690, guid: 348bd9f3b5930a9438098fcf840343c4,
     type: 3}
   m_Parent: {fileID: 2100000, guid: b7a4771565ba58b4c984f7f35bc06543, type: 2}
-  m_ModifiedSerializedProperties: 8
+  m_ModifiedSerializedProperties: 12
   m_ValidKeywords: []
   m_InvalidKeywords:
   - _DISABLE_DECALS
